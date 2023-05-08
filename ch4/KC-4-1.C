@@ -4,13 +4,13 @@ main()
 {
   int a,b,c;
   clrscr();
-  printf("a:");
+  printf("Enter A :-");
   scanf("%d",&a);
-  printf("b:");
+  printf("Enter B :-");
   scanf("%d",&b);
   c=a;
   a=b;
   b=c;
-  printf("a=%d\n b=%d",a,b);
+  printf("A=%d\n B=%d",a,b);
   getch();
 }

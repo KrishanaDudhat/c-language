@@ -4,13 +4,14 @@
 main()
 {
 clrscr();
-printf("Name\t\t:krishana dudhat");
+printf("Name\t\t:Krishana Dudhat");
 printf("\nAge\t\t:16");
-printf("\nCours\t\t:c language");
+printf("\nCourse\t\t:C Language");
 printf("\nSchool\t\t:P.P.Savani");
-printf("\nHobby\t\t:wollyball,traveling");
-printf("\nMo numbe\t:+81 231654987");
-printf("\nLiving city\t:surat");
-printf("\nEducation\t:10th pass");
+printf("\nHobby\t\t:Vollyball,Traveling");
+printf("\nMO.Number\t:+81 231654987");
+printf("\nLiving City\t:Surat");
+printf("\nEducation\t:10th Pass");
 getch();
+
 }
