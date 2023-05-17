@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 #include<conio.h>
 main()
@@ -10,8 +9,7 @@ main()
     scanf("%d",&n);
     while(i<=n)
     {
-	printf("%d
-	",first);
+	printf("%d",first);
 	next=first+second;
 	first=second;
 	second=next;
@@ -20,4 +18,4 @@ main()
 
     getch();
 
-}
+}	
