@@ -3,7 +3,7 @@
 main()
 {
     int n,i=1;
-    clrscr();
+   clrscr();
     printf("Enter a number :");
     scanf("%d",&n);
     while(i<=n)
@@ -21,7 +21,7 @@ main()
 	n++;
 	break;
     }
+	getch();
 
-    getch();
 
 }
